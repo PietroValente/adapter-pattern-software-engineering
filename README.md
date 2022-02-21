@@ -7,3 +7,4 @@
 ## Overview
 
 ## ITD
+The _Implementation and Test deliverable_ (ITD) provides for the implementation of a prototype of the project with related tests and documentation relating to the tests performed.
