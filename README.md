@@ -18,7 +18,7 @@ https://www2.cs.duke.edu/csed/java/jdk1.4.2/docs/api/index.html).
 
 In particular, the library contains classes that make use of the List interface, and therefore of those to it connected (Collection, Iterator, ListIterator), and also Map, Set, Collection interface of the Java2 Collections Framework version 1.4.2.
 
-In the development of the project it was considered **essential** that the code uses only the features present in CLDC 1.1 to create the adapter.
+In the development of the project it was considered **essential** that the code uses only the features present in CLDC 1.1 to create adapters.
 
 In the Pattern Report.pdf file you can find a detailed description of how the Adapter pattern was applied for the realization of what has been described.
 
